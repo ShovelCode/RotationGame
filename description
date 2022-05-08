@@ -1,1 +1,9 @@
 straight and right angle pipe segments directing a flow from a starting point to one or more ending points
+
+the two types of pipes are right angles and straight pipes.
+
+Two types of rotations: 90 degrees to the left and 90 degrees to the right.
+
+The goal in each level could be to minimize the amount of rotations or minimize use of the left or right rotations. 
+
+Special challenges can be made by limiting the use of the left or right rotations.
